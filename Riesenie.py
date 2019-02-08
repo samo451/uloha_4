@@ -18,7 +18,7 @@ def znaky(text):
 
 def tvorba_zoznamu_znakov():
     """
-    Pomocou uživateľom zadaného vstupu vytvára zoznam znakov, ktorý vracia.
+    Pomocou uživateľom zadaného textového vstupu vytvára zoznam znakov, ktorý vracia.
     V prípade nesprávne zadaného vstupu končí program s chybou.
     """
     filename = input("Zvoľte súbor: ")

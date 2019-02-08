@@ -14,5 +14,5 @@ príponou.
 Výsledkom je vypísaný zoznam podľa početnosti, od najpočetnejšieho znaku po najmenej početný.
 ##### Chybové ukončenia programu (podľa exit kódov)
 1. Nie je možné nájsť zadaný súbor. Zadajte korektný súbor (príp. aj s cestou k danému súboru).\\
-##Príklad spustenia programu + dáta 
+##Príklad spustenia programu + dáta  
 Spustite súbor "Riesenie.py" v tomto adresári a pre ukážku použite súbor "text.txt" ako vstupnýá súbor, ktorý zadáte do programu.
